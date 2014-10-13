@@ -1,0 +1,3 @@
+Nothing fancy...  
+A simple page to present browser information by tapping into  
+the Navigator object  

@@ -1,0 +1,39 @@
+html, body {
+	background-color: grey;
+	padding-top: 1%;
+}
+
+table {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: monospace;
+	font-size: 15px;
+}
+
+tr {
+	text-align: left;
+}
+
+th, td {
+	padding: 1%;
+}
+
+pre > code {
+	margin-left: 16%;
+	font-family: monospace;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+p {
+	margin-left: 20%;
+	font-family: monospace;
+	font-size: 18px;
+}
+
+hr {
+	width: 70%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
